@@ -1,6 +1,6 @@
 #pragma once
 
 #include "mascot/agent.h"
-#include "mascot/machine.h"
-#include "mascot/triple.h"
+#include "mascot/setup.h"
+#include "mascot/numerics.h"
 
